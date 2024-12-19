@@ -1,8 +1,8 @@
 # Declarations of terms tracked in the *produits* collection
 
-The terms in this collection are declared by _ _ _ _ _ ✍️ and tracked using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are declared by beta.gouv.fr and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
-You can [explore the tracked versions](https://github.com/betagouv/produits-versions) interactively or [download them as a dataset](https://github.com/betagouv/produits-versions/releases) in the `betagouv/produits-versions` repository.
+You can [explore the tracked versions](https://github.com/betagouv/ota-produits-versions) interactively or [download them as a dataset](https://github.com/betagouv/ota-produits-versions/releases) in the `betagouv/ota-produits-versions` repository.
 
 ## Scope
 
