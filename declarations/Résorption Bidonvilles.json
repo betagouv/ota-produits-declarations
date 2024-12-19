@@ -1,0 +1,13 @@
+{
+  "name": "Résorption Bidonvilles",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://app.resorption-bidonvilles.beta.gouv.fr/mentions-legales",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://app.resorption-bidonvilles.beta.gouv.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

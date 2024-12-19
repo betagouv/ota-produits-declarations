@@ -1,0 +1,17 @@
+{
+  "name": "Potentiel",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://docs.potentiel.beta.gouv.fr/info/cgu",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://docs.potentiel.beta.gouv.fr/info/vie-privee-et-politique-de-confidentialite",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://potentiel.beta.gouv.fr/accessibilite.html",
+      "select": "body"
+    }
+  }
+}

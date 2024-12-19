@@ -1,0 +1,17 @@
+{
+  "name": "Mon stage de 3e",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://www.monstagedetroisieme.fr/mentions-legales",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.monstagedetroisieme.fr/politique-de-confidentialite",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://www.monstagedetroisieme.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

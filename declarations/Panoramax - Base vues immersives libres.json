@@ -1,0 +1,13 @@
+{
+  "name": "Panoramax - Base vues immersives libres",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://panoramax.ign.fr/terms-of-service",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://panoramax.ign.fr/accessibility",
+      "select": "body"
+    }
+  }
+}

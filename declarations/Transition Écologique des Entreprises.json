@@ -1,0 +1,17 @@
+{
+  "name": "Transition Écologique des Entreprises",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://mission-transition-ecologique.beta.gouv.fr/mentions-legales",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://mission-transition-ecologique.beta.gouv.fr/donnees-personnelles",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://mission-transition-ecologique.beta.gouv.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

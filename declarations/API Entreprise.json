@@ -1,0 +1,17 @@
+{
+  "name": "API Entreprise",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://entreprise.api.gouv.fr/mentions-legales",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://entreprise.api.gouv.fr/donnees_personnelles",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://entreprise.api.gouv.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

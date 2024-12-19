@@ -1,0 +1,17 @@
+{
+  "name": "Open Terms Archive",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://opentermsarchive.org/fr/mentions-legales/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://opentermsarchive.org/fr/politique-de-confidentialite/",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://opentermsarchive.org/fr/accessibilite/",
+      "select": "body"
+    }
+  }
+}

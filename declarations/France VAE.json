@@ -1,0 +1,17 @@
+{
+  "name": "France VAE",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://vae.gouv.fr/mentions-legales/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://vae.gouv.fr/confidentialite/",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://vae.gouv.fr/declaration-accessibilite/",
+      "select": "body"
+    }
+  }
+}

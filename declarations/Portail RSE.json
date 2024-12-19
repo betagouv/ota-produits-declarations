@@ -1,0 +1,17 @@
+{
+  "name": "Portail RSE",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://portail-rse.beta.gouv.fr/pied-de-page/mentions-legales/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://portail-rse.beta.gouv.fr/pied-de-page/politique-de-confidentialit%C3%A9-portail-rsebetagouvfr/",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://portail-rse.beta.gouv.fr/pied-de-page/accessibilite/",
+      "select": "body"
+    }
+  }
+}

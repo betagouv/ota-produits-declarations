@@ -1,0 +1,9 @@
+{
+  "name": "Disinfo",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://disinfo.quaidorsay.fr/mentions-legales.html",
+      "select": "body"
+    }
+  }
+}

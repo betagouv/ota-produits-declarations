@@ -1,0 +1,13 @@
+{
+  "name": "api.gouv.fr",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://api.gouv.fr/mentions-legales",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://api.gouv.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

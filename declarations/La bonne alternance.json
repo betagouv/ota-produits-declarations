@@ -1,0 +1,17 @@
+{
+  "name": "La bonne alternance",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://labonnealternance.apprentissage.beta.gouv.fr/mentions-legales",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://labonnealternance.apprentissage.beta.gouv.fr/politique-de-confidentialite",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://labonnealternance.apprentissage.beta.gouv.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

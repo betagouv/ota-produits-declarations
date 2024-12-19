@@ -1,0 +1,17 @@
+{
+  "name": "CNR",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://conseil-refondation.fr/mentions-legales/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://conseil-refondation.fr/confidentialite/",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://conseil-refondation.fr/accessibilite/",
+      "select": "body"
+    }
+  }
+}
