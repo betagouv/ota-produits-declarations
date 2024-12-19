@@ -1,0 +1,17 @@
+{
+  "name": "RDV Service Public",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://www.rdv-solidarites.fr/mentions_legales",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.rdv-solidarites.fr/politique_de_confidentialite",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://www.rdv-solidarites.fr/accessibility",
+      "select": "body"
+    }
+  }
+}

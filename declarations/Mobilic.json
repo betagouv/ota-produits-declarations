@@ -1,0 +1,17 @@
+{
+  "name": "Mobilic",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://mobilic.beta.gouv.fr/legal-notices",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://mobilic.beta.gouv.fr/donnees-personnelles",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://mobilic.beta.gouv.fr/accessibility",
+      "select": "body"
+    }
+  }
+}

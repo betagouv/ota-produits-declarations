@@ -1,0 +1,17 @@
+{
+  "name": "Immersion facilitée",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://immersion-facile.beta.gouv.fr/pages/mentions-legales",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://immersion-facile.beta.gouv.fr/pages/politique-de-confidentialite",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://immersion-facile.beta.gouv.fr/pages/accessibilite",
+      "select": "body"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Camino",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://camino.gitbook.io/guide-dutilisation/a-propos/mentions-legales",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://camino.gitbook.io/guide-dutilisation/a-propos/accessibilite",
+      "select": "body"
+    }
+  }
+}

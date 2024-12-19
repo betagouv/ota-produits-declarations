@@ -1,0 +1,13 @@
+{
+  "name": "Impact CO2",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://impactco2.fr/mentions-legales",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://impactco2.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

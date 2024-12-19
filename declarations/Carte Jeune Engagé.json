@@ -1,0 +1,13 @@
+{
+  "name": "Carte Jeune Engagé",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://cje.beta.gouv.fr/mentions-legales",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://cje.beta.gouv.fr/politique-de-confidentialite",
+      "select": "body"
+    }
+  }
+}

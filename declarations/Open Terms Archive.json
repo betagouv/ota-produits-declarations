@@ -1,17 +1,17 @@
 {
   "name": "Open Terms Archive",
   "documents": {
-    "Privacy Policy": {
-      "fetch": "https://opentermsarchive.org/en/privacy-policy",
-      "select": ".textcontent"
-    },
     "Imprint": {
-      "fetch": "https://opentermsarchive.org/en/legal-notice",
-      "select": ".textcontent"
+      "fetch": "https://opentermsarchive.org/fr/mentions-legales/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://opentermsarchive.org/fr/politique-de-confidentialite/",
+      "select": "body"
     },
     "Accessibility Statement": {
-      "fetch": "https://opentermsarchive.org/en/accessibility/",
-      "select": ".textcontent"
+      "fetch": "https://opentermsarchive.org/fr/accessibilite/",
+      "select": "body"
     }
   }
 }

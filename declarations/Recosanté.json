@@ -1,0 +1,17 @@
+{
+  "name": "Recosanté",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://recosante.beta.gouv.fr/mentions-legales/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://recosante.beta.gouv.fr/donnees-personnelles/",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://recosante.beta.gouv.fr/accessibilite/",
+      "select": "body"
+    }
+  }
+}

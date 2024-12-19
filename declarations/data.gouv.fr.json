@@ -1,0 +1,17 @@
+{
+  "name": "data.gouv.fr",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://www.data.gouv.fr/fr/pages/legal/legal-notice",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.data.gouv.fr/fr/suivi/",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://www.data.gouv.fr/fr/pages/legal/accessibility",
+      "select": "body"
+    }
+  }
+}

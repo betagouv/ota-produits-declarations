@@ -1,0 +1,17 @@
+{
+  "name": "Trackdéchets",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://trackdechets.beta.gouv.fr/static/pdf/mentions-legales.pdf",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://trackdechets.beta.gouv.fr/static/pdf/politique-de-confidentialite.pdf",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://trackdechets.beta.gouv.fr/accessibilite/",
+      "select": "body"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Carbure",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://carbure-1.gitbook.io/faq/mentions-legales-et-cgu/mentions-legales-et-conditions-generales-dutilisation",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://carbure-1.gitbook.io/faq/mentions-legales-et-cgu/mentions-legales-et-conditions-generales-dutilisation#cookies",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://carbure.beta.gouv.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

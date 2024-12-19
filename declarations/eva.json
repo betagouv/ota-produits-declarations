@@ -1,0 +1,9 @@
+{
+  "name": "eva",
+  "documents": {
+    "Accessibility Statement": {
+      "fetch": "https://eva.beta.gouv.fr/accessibilite/",
+      "select": "body"
+    }
+  }
+}

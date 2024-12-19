@@ -1,0 +1,13 @@
+{
+  "name": "CartoBio",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://cartobio.agencebio.org/mentions-legales",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://cartobio.agencebio.org/accessibilite",
+      "select": "body"
+    }
+  }
+}

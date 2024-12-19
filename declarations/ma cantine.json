@@ -1,0 +1,17 @@
+{
+  "name": "ma cantine",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://ma-cantine.agriculture.gouv.fr/v2/mentions-legales",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://ma-cantine.agriculture.gouv.fr/politique-de-confidentialite",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://ma-cantine.agriculture.gouv.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

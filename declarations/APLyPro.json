@@ -1,0 +1,17 @@
+{
+  "name": "APLyPro",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://aplypro.beta.gouv.fr/legal",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://aplypro.beta.gouv.fr/legal",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://aplypro.beta.gouv.fr/accessibility",
+      "select": "body"
+    }
+  }
+}

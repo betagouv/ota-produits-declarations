@@ -1,0 +1,17 @@
+{
+  "name": "Tableau de bord de l'apprentissage",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://cfas.apprentissage.beta.gouv.fr/mentions-legales",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://cfas.apprentissage.beta.gouv.fr/politique-de-confidentialite",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://cfas.apprentissage.beta.gouv.fr/accessibilite",
+      "select": "body"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Mes remboursements simplifiés (MRS)",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://mrs.beta.gouv.fr/mentions-legales",
+      "select": "body"
+    }
+  }
+}

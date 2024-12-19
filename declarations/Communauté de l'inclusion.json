@@ -1,0 +1,17 @@
+{
+  "name": "Communauté de l'inclusion",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://forum.inclusion.beta.gouv.fr/mentions-legales/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://forum.inclusion.beta.gouv.fr/politique-de-confidentialite/",
+      "select": "body"
+    },
+    "Accessibility Statement": {
+      "fetch": "https://forum.inclusion.beta.gouv.fr/accessibilite/",
+      "select": "body"
+    }
+  }
+}

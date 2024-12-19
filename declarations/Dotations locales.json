@@ -1,0 +1,15 @@
+{
+  "name": "Dotations locales",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://dotations.incubateur.anct.gouv.fr/mentions-legales",
+      "select": "body",
+      "executeClientScripts": true
+    },
+    "Accessibility Statement": {
+      "fetch": "https://dotations.incubateur.anct.gouv.fr/declaration-accessibilite",
+      "select": "body",
+      "executeClientScripts": true
+    }
+  }
+}

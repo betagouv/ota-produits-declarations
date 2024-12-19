@@ -1,0 +1,15 @@
+{
+  "name": "Pix",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://pix.fr/mentions-legales",
+      "select": "body",
+      "executeClientScripts": true
+    },
+    "Accessibility Statement": {
+      "fetch": "https://pix.fr/accessibilite",
+      "select": "body",
+      "executeClientScripts": true
+    }
+  }
+}
