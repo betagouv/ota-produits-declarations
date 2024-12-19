@@ -4,8 +4,8 @@
       "versions": {
         "storage": {
           "git": {
-            "snapshotIdentiferTemplate": "https://github.com/betagouv/produits-snapshots/commit/%SNAPSHOT_ID",
-            "repository": "git@github.com:betagouv/produits-versions.git",
+            "snapshotIdentiferTemplate": "https://github.com/betagouv/ota-produits-snapshots/commit/%SNAPSHOT_ID",
+            "repository": "git@github.com:betagouv/ota-produits-versions.git",
             "path": "./data/versions"
           }
         }
@@ -13,7 +13,7 @@
       "snapshots": {
         "storage": {
           "git": {
-            "repository": "git@github.com:betagouv/produits-snapshots.git",
+            "repository": "git@github.com:betagouv/ota-produits-snapshots.git",
             "path": "./data/snapshots"
           }
         }
@@ -31,15 +31,15 @@
     "reporter": {
       "githubIssues": {
         "repositories": {
-          "declarations": "betagouv/produits-declarations",
-          "versions": "betagouv/produits-versions",
-          "snapshots": "betagouv/produits-snapshots"
+          "declarations": "betagouv/ota-produits-declarations",
+          "versions": "betagouv/ota-produits-versions",
+          "snapshots": "betagouv/ota-produits-snapshots"
         }
       }
     },
     "dataset": {
       "title": "produits",
-      "versionsRepositoryURL": "https://github.com/betagouv/produits-versions"
+      "versionsRepositoryURL": "https://github.com/betagouv/ota-produits-versions"
     },
     "collection-api": {
       "port": 3000,
