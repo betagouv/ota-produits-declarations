@@ -1,9 +1,0 @@
-{
-  "name": "Mes événements emploi",
-  "documents": {
-    "Accessibility Statement": {
-      "fetch": "https://www.francetravail.fr/informations/aide-et-accessibilite.html",
-      "select": "body"
-    }
-  }
-}

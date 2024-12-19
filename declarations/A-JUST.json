@@ -1,9 +1,0 @@
-{
-  "name": "A-JUST",
-  "documents": {
-    "Accessibility Statement": {
-      "fetch": "https://a-just.beta.gouv.fr/declaration-accessibilite",
-      "select": "body"
-    }
-  }
-}

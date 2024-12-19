@@ -1,9 +1,0 @@
-{
-  "name": "Mon-entreprise",
-  "documents": {
-    "Accessibility Statement": {
-      "fetch": "https://mon-entreprise.urssaf.fr/accessibilité",
-      "select": "body"
-    }
-  }
-}

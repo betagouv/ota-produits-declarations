@@ -1,9 +1,0 @@
-{
-  "name": "Registre de preuve de covoiturage",
-  "documents": {
-    "Imprint": {
-      "fetch": "https://doc.covoiturage.beta.gouv.fr/ressources/mentions-legales",
-      "select": "body"
-    }
-  }
-}

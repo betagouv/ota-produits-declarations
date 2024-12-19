@@ -1,16 +1,16 @@
-# Declarations of terms tracked in the *<!-- here goes your collection name -->Demo<!-- until here -->* collection
+# Declarations of terms tracked in the *produits* collection
 
-The terms in this collection are declared by <!-- customize to your context -->the Open Terms Archive Core Team<!-- until here --> and tracked using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are declared by _ _ _ _ _ ✍️ and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
-You can [explore the tracked versions](https://github.com/OpenTermsArchive/demo-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/demo-versions/releases) in the `OpenTermsArchive/demo-versions` repository.
+You can [explore the tracked versions](https://github.com/betagouv/produits-versions) interactively or [download them as a dataset](https://github.com/betagouv/produits-versions/releases) in the `betagouv/produits-versions` repository.
 
 ## Scope
 
 The terms you will find in this collection match the following scope:
 
-- **Topic:** <!-- customize to your context -->The services needed to operate the Open Terms Archive engine<!-- until here -->
-- **Jurisdictions:** <!-- customize to your context -->European Union<!-- until here -->
-- **Languages:** <!-- customize to your context -->English<!-- until here -->
+- **Topic:** _ _ _ _ _ ✍️
+- **Jurisdictions:** _ _ _ _ _ ✍️
+- **Languages:** _ _ _ _ _ ✍️
 
 - - -
 

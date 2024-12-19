@@ -1,9 +1,0 @@
-{
-  "name": "DataPass",
-  "documents": {
-    "Accessibility Statement": {
-      "fetch": "https://datapass.api.gouv.fr/accessibilite",
-      "select": "body"
-    }
-  }
-}
